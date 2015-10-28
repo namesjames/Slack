@@ -1,2 +1,12 @@
 # Slack
-The ins and outs of Slack
+The ins and outs of Slack by [James Conti]("mailto:jamesconti.41@gmail.com")
+
+Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams. Utilize this repo as a resource to all things Slack!
+
+Markdown is full supported in Slack, view my markdown repo to learn more: [Markdown Bible](https://github.com/namesjames/Markdown-Bible)
+
+`up arrow` to quickly edit the message
+
+`alt` + `click` to mark a conversation unread within a conversation
+
+To add custom emjois, navigate to the bottom of the custom emoji tab and click ```add custom emoji```
